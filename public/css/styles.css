@@ -28,7 +28,7 @@ body {
     display: inline;
 }
 
-.welcome a, .welcome a:active {
+a, a:active {
     color: dodgerblue;
 }
 
